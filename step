@@ -1,0 +1,3 @@
+b1: tao csdl
+b2: tao model and migration : php artisan make:model GiangVien -m
+b3: them dl vao table giang_vien
